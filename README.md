@@ -46,6 +46,7 @@ You can find specific information about the projects in the  folder ./project.
 
 ```shell
 cd Affective Computing
+cd projects
 cd CTEN/TSL/BPM_GCN
 ```
 After entering the folder of the specific project, you can learn  how to train the model and evaluate through the README.md.
