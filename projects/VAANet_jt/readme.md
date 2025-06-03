@@ -69,7 +69,7 @@ python main.py
 | Single epoch Time(train) | 64.8s | 37.8s |
 ||||
 
-Both the Jittor and PyTorch versions produce identical emotion classification results on the VE8 video dataset. You can verify the results by running the following code:"
+The above results were benchmarked on a single RTX 3090 GPU under the setting of batch_size=1.Both the Jittor and PyTorch versions produce identical emotion classification results on the VE8 video dataset. You can verify the results by running the following code:"
 
 ```bash
 python test.py
